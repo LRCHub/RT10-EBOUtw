@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "IN_MY_HEAD",
+  "base_artist": "natori",
+  "createdAt": "2026-02-19T16:16:45.858390Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hammering in My Head (2018 - Remaster)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/01_Hammering_in_My_Head_(2018_-_Remaster)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hammering In My Head",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/02_Hammering_In_My_Head_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Trumpet in My Head",
+      "artist": "Lykke Li",
+      "has_synced": true,
+      "path": "select/03_This_Trumpet_in_My_Head_Lykke_Li.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ghost in My Head",
+      "artist": "Niva",
+      "has_synced": true,
+      "path": "select/04_Ghost_in_My_Head_Niva.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In My Head",
+      "artist": "No Doubt",
+      "has_synced": false,
+      "path": "select/05_In_My_Head_No_Doubt.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Voices In My Head",
+      "artist": "Onra",
+      "has_synced": false,
+      "path": "select/06_Voices_In_My_Head_Onra.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Party In My Head",
+      "artist": "September",
+      "has_synced": false,
+      "path": "select/07_Party_In_My_Head_September.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "in my head",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/08_in_my_head_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "With You In My Head (feat. Black Angels)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/09_With_You_In_My_Head_(feat._Black_Angels)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "With You In My Head (feat. The Black Angels)",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/10_With_You_In_My_Head_(feat._The_Black_Angels)_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Angels in My Head",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/11_Angels_in_My_Head_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Angels in My Head (Extended Version)",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/12_Angels_in_My_Head_(Extended_Version)_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Voices in My Head",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/13_Voices_in_My_Head_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Voices In My Head",
+      "artist": "Stacey Q",
+      "has_synced": false,
+      "path": "select/14_Voices_In_My_Head_Stacey_Q.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "In My Head",
+      "artist": "AlunaGeorge",
+      "has_synced": true,
+      "path": "select/15_In_My_Head_AlunaGeorge.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IN_MY_HEAD",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_IN_MY_HEAD_なとり.txt"
+    }
+  ]
+}
